@@ -1,2 +1,2 @@
-# recursive-password-generator
+#Random password generator
 mini project Python 1
